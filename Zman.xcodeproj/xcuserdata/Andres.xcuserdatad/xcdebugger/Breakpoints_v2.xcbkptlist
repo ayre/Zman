@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZmanTests/UTHebrewDate.swift"
+            timestampString = "474930150.062628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "testMonth_valid()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZmanTests.UTHebrewDate.testMonth_valid (ZmanTests.UTHebrewDate)() -&gt; ()"
+                  moduleName = "ZmanTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andres/Projects/Developer/Zman/ZmanTests/UTHebrewDate.swift"
+                  timestampString = "474941901.955045"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "6948">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZmanTests.UTHebrewDate.(testMonth_valid (ZmanTests.UTHebrewDate) -&gt; () -&gt; ()).(implicit closure #25)"
+                  moduleName = "ZmanTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andres/Projects/Developer/Zman/ZmanTests/UTHebrewDate.swift"
+                  timestampString = "474941901.955376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZmanTests.UTHebrewDate.(testMonth_valid (ZmanTests.UTHebrewDate) -&gt; () -&gt; ()).(implicit closure #26)"
+                  moduleName = "ZmanTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andres/Projects/Developer/Zman/ZmanTests/UTHebrewDate.swift"
+                  timestampString = "474941901.955689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZmanTests/UTGregorianDate.swift"
+            timestampString = "474940048.018992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "testBack_one()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zman/NSDateComponents+HebrewDate.swift"
+            timestampString = "475524769.51226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
+            landmarkName = "isCholHaMoed(inIsrael:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
